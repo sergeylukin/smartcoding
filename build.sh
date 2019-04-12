@@ -1,2 +1,2 @@
 curl https://install.meteor.com/ | sh
-export $PATH=$HOME/.meteor:$PATH
+export PATH=$HOME/.meteor:$PATH
